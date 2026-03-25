@@ -17,4 +17,27 @@ I am currently studying Cybersecurity and Python, driven by the willingness and 
 
   | Skill                                                             | Associated Project                        |
   |-------------------------------------------------------------------|-------------------------------------------|
-  |
+
+
+
+  ## Tools
+
+  ### Network
+
+
+  ### Endpoint 
+
+
+  ### SIEM
+  <div> </div>
+
+  ### Cloud 
+
+
+
+  ## Certification
+  
+
+
+  ## Projects
+- 
