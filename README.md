@@ -36,9 +36,9 @@ I am currently studying Cybersecurity and Python, driven by the willingness and 
 
 
   ## Certification
-  [ddf862a9-0609-40f5-938b-5b7714d27c58.pdf](https://github.com/user-attachments/files/27712107/ddf862a9-0609-40f5-938b-5b7714d27c58.pdf)
+<img width="6875" height="5209" alt="6271cda0-bd8c-43fa-ab5e-798cc1797508 (2)_page-0001" src="https://github.com/user-attachments/assets/b09bb32b-8c9c-409e-96fc-d92b0a1ab9a2" />
+<img width="6875" height="5209" alt="ddf862a9-0609-40f5-938b-5b7714d27c58_page-0001" src="https://github.com/user-attachments/assets/85449514-c5f1-4413-9077-6c96e2750a66" />
 
-  [6271cda0-bd8c-43fa-ab5e-798cc1797508 (1).pdf](https://github.com/user-attachments/files/27712018/6271cda0-bd8c-43fa-ab5e-798cc1797508.1.pdf)
 
   
 
