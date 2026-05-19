@@ -44,4 +44,5 @@ I am currently studying Cybersecurity and Python, driven by the willingness and 
 
 
   ## Projects
-- 
+- Bandit Wargame
+- Natas Wargame
